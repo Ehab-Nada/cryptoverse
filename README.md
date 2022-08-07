@@ -1,4 +1,5 @@
 # Cryptoverse app is a crypto currency informations provider using React and Rapid API
+![alt text](https://ibb.co/8MJHYt5)
 # Live Server -> https://cryptooverse.web.app/
 ## Ant Design -> Layout, cards and icons
 ## Redux/toolkit -> manage all application states and store RapidAPI feched data
